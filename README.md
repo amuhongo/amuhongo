@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amuhongo/amuhongo/main/foto.png" alt="Banner de Agostinho Muhongo Feliciano" width="100%">
+</p>
+
 <h1 align="center">👋 Olá, eu sou Agostinho Muhongo Feliciano</h1>
 
 <p align="center">
