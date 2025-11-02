@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amuhongo/amuhongo/main/foto.png" alt="Banner de Agostinho Muhongo Feliciano" width="100%">
+  <img src="https://raw.githubusercontent.com/amuhongo/amuhongo/main/foto.png" alt="Banner de Agostinho Muhongo Feliciano" width="100%" height="250"">
 </p>
 
 <h1 align="center">👋 Olá, eu sou Agostinho Muhongo Feliciano</h1>
